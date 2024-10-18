@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Damian Villalba</h1>
 <h3 align="center">Desarrollador trainee y estudiante de Argentina.</h3>
 
-- 🌱 Actualmente aprendiendo **Front-end (HTML, CSS & JavaScript) en <a href=https://inscripcionesagencia.bue.edu.ar/talentotech/>TALENTO TECH</a>**
+- 🌱 Actualmente certificandome en **Front-end (HTML, CSS & JavaScript) en <a href=https://inscripcionesagencia.bue.edu.ar/talentotech/>TALENTO TECH</a>**
 
 - 🔭 Actualmente estoy trabajando en **Proyecto E-Commerce**
 
